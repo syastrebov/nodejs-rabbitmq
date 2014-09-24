@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmq-adapter",
+  "description": "Node.js bramqp rabbitmq adapter",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x",
+    "bramqp": "0.1.18",
+    "connect": "3.x",
+    "async": "0.9.x"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-jasmine-node-coverage": "^0.1.11",
+    "jasmine-expect": "^1.22.0",
+    "jasmine-where": "0.0.11"
+  }
+}
